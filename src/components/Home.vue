@@ -6,6 +6,7 @@
     </video>
     <h2>GitHub API data fetch</h2>
 	<div class="arrow-up">
+		<font-awesome-icon icon="fa-regular fa-arrow-up" />
 		<font-awesome-icon icon="fa-solid fa-chevrons-up" />
 	</div>
   </div>
